@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fss6/fabiosantos.net.br/static/css/main.2eceba7e.chunk.css",
+    "main.js": "/fss6/fabiosantos.net.br/static/js/main.30b2057b.chunk.js",
+    "main.js.map": "/fss6/fabiosantos.net.br/static/js/main.30b2057b.chunk.js.map",
+    "runtime-main.js": "/fss6/fabiosantos.net.br/static/js/runtime-main.64216733.js",
+    "runtime-main.js.map": "/fss6/fabiosantos.net.br/static/js/runtime-main.64216733.js.map",
+    "static/js/2.3fd52a6c.chunk.js": "/fss6/fabiosantos.net.br/static/js/2.3fd52a6c.chunk.js",
+    "static/js/2.3fd52a6c.chunk.js.map": "/fss6/fabiosantos.net.br/static/js/2.3fd52a6c.chunk.js.map",
+    "index.html": "/fss6/fabiosantos.net.br/index.html",
+    "precache-manifest.2b58f3728e4727bf041b5adbeb086602.js": "/fss6/fabiosantos.net.br/precache-manifest.2b58f3728e4727bf041b5adbeb086602.js",
+    "service-worker.js": "/fss6/fabiosantos.net.br/service-worker.js",
+    "static/css/main.2eceba7e.chunk.css.map": "/fss6/fabiosantos.net.br/static/css/main.2eceba7e.chunk.css.map",
+    "static/js/2.3fd52a6c.chunk.js.LICENSE": "/fss6/fabiosantos.net.br/static/js/2.3fd52a6c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64216733.js",
+    "static/js/2.3fd52a6c.chunk.js",
+    "static/css/main.2eceba7e.chunk.css",
+    "static/js/main.30b2057b.chunk.js"
+  ]
+}
