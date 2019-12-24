@@ -1,0 +1,37 @@
+{
+    "disciplines": [
+        {
+            "name": "SEGURANÇA E AUDITORIA",
+            "code": "5SENO",
+            "resume": "",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/UniFBV_2019-2_5SENO"
+                }
+            ]
+        },
+        {
+            "name": "SISTEMAS DISTRIBUÍDOS",
+            "code": "5SIDA",
+            "resume": "",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/UniFBV_2019-2_5SIDA"
+                }
+            ]
+        },
+        {
+            "name": "ANÁLISE E MONITORAMENTO DE DESEMPENHO",
+            "code": "5ANMD",
+            "resume": "",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/UniFBV_2019-2_5ANMD"
+                }
+            ]
+        }
+    ]
+}
