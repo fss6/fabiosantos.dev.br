@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fss6/fabiosantos.net.br/precache-manifest.2b58f3728e4727bf041b5adbeb086602.js"
+  "/fss6/fabiosantos.net.br/precache-manifest.1219f4f3a0581facbae63cdfdeb64ab6.js"
 );
 
 self.addEventListener('message', (event) => {
