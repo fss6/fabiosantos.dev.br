@@ -2,7 +2,7 @@
   "name": "fabiosantos.net.br",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fss6.github.io/fabiosantos.net.br",
+  "homepage": "http://www.fabiosantos.net.br/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/react-fontawesome": "^0.1.8",
