@@ -16,7 +16,7 @@ export default class Unifbv extends Component {
                     </span>
                     <div className="mi-contact-infoblock-content">
                         <h6 className="blue-color">Período Atual</h6>
-                        <p><a href="/unifbv/2020.1">
+                        <p><a href="/#/unifbv/2020.1">
                                 <FaLink /> 2020.1
                             </a>
                         </p>
@@ -29,7 +29,7 @@ export default class Unifbv extends Component {
                     <div className="mi-contact-infoblock-content">
                         <h6 className="blue-color">Períodos Anteriores</h6>
                         <p className="mb-1">
-                            <a href="/unifbv/2019.2">
+                            <a href="/#/unifbv/2019.2">
                                 <FaLink /> 2019.2
                             </a>
                         </p>

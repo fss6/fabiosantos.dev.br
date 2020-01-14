@@ -20,15 +20,15 @@ export default class Template extends Component {
                         </div>
                         <ul className="mi-header-menu">
                             <li>
-                                <a aria-current="page" className={this.activeMenu('home')} href="/">
+                                <a aria-current="page" className={this.activeMenu('home')} href="/#/">
                                     <span>Página Inicial</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="/resume" className={this.activeMenu('resume')}><span>FORMAÇÃO ACADÊMICA</span></a>
+                                <a href="/#/resume" className={this.activeMenu('resume')}><span>FORMAÇÃO ACADÊMICA</span></a>
                             </li>
                             <li>
-                                <a href="/unifbv" className={this.activeMenu('unifbv')}><span>UniFBV</span></a>
+                                <a href="/#/unifbv" className={this.activeMenu('unifbv')}><span>UniFBV</span></a>
                             </li>
                         </ul>
                         <p className="mi-header-copyright">
