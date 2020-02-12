@@ -3,13 +3,28 @@
         {
             "name": "PROGRAMAÇÃO WEB",
             "code": "5PRMA",
-            "resume": "Lorem",
+            "resume": "",
             "items": [
                 {
                     "title": "Aulas",
                     "url": "http://bit.ly/3bzZdA3"
                 }
             ]
+        },
+        {
+            "name": "TEORIA DA COMPUTAÇÃO",
+            "code": "5PRMA",
+            "resume": "",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/31NLXDp"
+                }
+            ]
         }
     ]
 }
+
+
+
+
