@@ -1,6 +1,17 @@
 {
     "disciplines": [
         {
+            "name": "ANÁLISE E MONITORAMENTO DE DESEMPENHO",
+            "code": "5ANMD",
+            "resume": "http://bit.ly/3bysGKt",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/2OQZOmO"
+                }
+            ]
+        },
+        {
             "name": "PROGRAMAÇÃO WEB",
             "code": "5PRMA",
             "resume": "",
@@ -21,7 +32,30 @@
                     "url": "http://bit.ly/31NLXDp"
                 }
             ]
+        },
+        {
+            "name": "COMPILADORES",
+            "code": "5CPIL",
+            "resume": "",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/39sWk1Z"
+                }
+            ]
+        },
+        {
+            "name": "DESENVOLVIMENTO DE SOFTWARE",
+            "code": "5DEOL",
+            "resume": "",
+            "items": [
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/2OQZOmO"
+                }
+            ]
         }
+
     ]
 }
 
