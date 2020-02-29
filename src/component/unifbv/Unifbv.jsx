@@ -11,12 +11,15 @@ export default class Unifbv extends Component {
                     <h2>UNIFBV</h2>
                 </div>
                 <div className="mi-contact-infoblock">
-                    <span className="mi-contact-infoblock-icon white-color">
-                        <FaCalendarAlt />
-                    </span>
+                    <a href="/#/unifbv/2020.1">
+                        <span className="mi-contact-infoblock-icon">
+                            <FaCalendarAlt />
+                        </span>
+                    </a>
                     <div className="mi-contact-infoblock-content">
                         <h6 className="blue-color">Período Atual</h6>
-                        <p><a href="/#/unifbv/2020.1">
+                        <p>
+                            <a href="/#/unifbv/2020.1">
                                 <FaLink /> 2020.1
                             </a>
                         </p>

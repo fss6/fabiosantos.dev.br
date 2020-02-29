@@ -25,14 +25,14 @@ export default class Period extends Component {
     render() {
         return (
             <Template activeMenu="unifbv">
-                <div className="mi-sectiontitle">
+                <div className="mi-sectiontitle mt-1 mt-sm-5">
                     <h2>UNIFBV {this.props.period}</h2>
                 </div>
                 <div className="mi-resume-wrapper">
                     {this.state.data.disciplines.map((discipline, i) =>
                         <div className="mi-resume" key={i}>
                             <div className="mi-resume-summary">
-                                <h6 className="mi-resume-year">{discipline.code}</h6>
+                                <h6 className="mi-resume-year">{discipline.codes}</h6>
                             </div>
                             <div className="mi-resume-details">
                                 <h5>{discipline.name}</h5>
@@ -44,7 +44,7 @@ export default class Period extends Component {
                                                 <li key={j}>
                                                     <b className="white-color">{item.title}</b> 
                                                     <a href={item.url} target="_blank" rel="noopener noreferrer">
-                                                        {item.url}
+                                                        { item.subtitle ? item.subtitle : item.url }
                                                     </a> 
                                                 </li>
                                             )}

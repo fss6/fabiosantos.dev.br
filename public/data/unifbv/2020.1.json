@@ -19,6 +19,16 @@
                 {
                     "title": "Aulas",
                     "url": "http://bit.ly/3bzZdA3"
+                },
+                {
+                    "title": "Linux",
+                    "subtitle": "Comandos básicos e avançados",
+                    "url": "https://www.researchgate.net/profile/Alessandro_Andrade/publication/302519436_Linux_Comandos_Basicos_e_Avancados/links/57581fba08ae5c6549074e6a/Linux-Comandos-Basicos-e-Avancados.pdf"
+                },
+                {
+                    "title": "GIT",
+                    "subtitle": "Dicas de Git",
+                    "url": "https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf"
                 }
             ]
         },
@@ -52,6 +62,16 @@
                 {
                     "title": "Aulas",
                     "url": "http://bit.ly/2OQZOmO"
+                },
+                {
+                    "title": "Linux",
+                    "subtitle": "Comandos básicos e avançados",
+                    "url": "https://www.researchgate.net/profile/Alessandro_Andrade/publication/302519436_Linux_Comandos_Basicos_e_Avancados/links/57581fba08ae5c6549074e6a/Linux-Comandos-Basicos-e-Avancados.pdf"
+                },
+                {
+                    "title": "GIT",
+                    "subtitle": "Dicas de Git",
+                    "url": "https://github.github.com/training-kit/downloads/pt_BR/github-git-cheat-sheet.pdf"
                 }
             ]
         }
