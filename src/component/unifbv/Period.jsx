@@ -13,7 +13,9 @@ export default class Period extends Component {
     }
 
     componentDidMount() {
-        let url = "/data/unifbv/" + this.props.period + ".json"
+        const BASE = "https://raw.githubusercontent.com/fss6/fabiosantos.net.br" 
+        const PATH = "/master/public/data/unifbv/" 
+        const url = BASE + PATH + this.props.period + ".json"
         fetch(url)
         .then(response => response.json())
         .then(data => this.setState({data: data}))
