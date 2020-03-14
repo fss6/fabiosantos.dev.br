@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Template from '../Template';
 import MainLoading from '../MainLoading';
+import { config } from '../../Constants';
 
 export default class Period extends Component {
 
@@ -15,9 +16,8 @@ export default class Period extends Component {
     }
 
     async componentDidMount() {
-        const BASE = "https://raw.githubusercontent.com/fss6/fabiosantos.net.br" 
-        const PATH = "/master/public/data/unifbv/" 
-        const url = BASE + PATH + this.props.period + ".json"
+        const BASE = config.url.DISCIPLINES_JSON_URL
+        const url = BASE + this.props.period + ".json"
         await fetch(url)
         .then(response => response.json())
         .then(data => this.setState({data: data, loading: false}))
