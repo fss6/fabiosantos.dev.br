@@ -68,6 +68,16 @@
                     "url": "http://bit.ly/39sWk1Z"
                 },
                 {
+                    "title": "AP1",
+                    "subtitle": "Seminários AP1",
+                    "url": "https://docs.google.com/document/d/1HE96WlaQTz_Ab6_XMdnXBb0jo5hft6Lrq0PPrNyawdE/edit?usp=sharing"
+                },
+                {
+                    "title": "AP2",
+                    "subtitle": "Projeto AP2",
+                    "url": "https://drive.google.com/open?id=1gHT6g-dxjopymhnRPGdrCA_xT9s7o3rV"
+                },
+                {
                     "title": "Github",
                     "subtitle": "Repositório Github",
                     "url": "https://github.com/minhas-aulas/unifbv.5CPIL"
@@ -76,14 +86,7 @@
                     "title": "Tutorial",
                     "subtitle": "K Framework (Youtube)",
                     "url": "https://www.youtube.com/playlist?list=PLmB9zOCKwySHC4lGTgIkjFU41P9_vW684"
-                },
-                {
-                    "title": "AP2",
-                    "subtitle": "Projeto AP2",
-                    "url": "https://drive.google.com/open?id=1gHT6g-dxjopymhnRPGdrCA_xT9s7o3rV"
                 }
-
-                
             ]
         },
         {
