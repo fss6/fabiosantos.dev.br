@@ -120,6 +120,11 @@
             "resume": "",
             "items": [
                 {
+                    "title": "AP2",
+                    "subtitle": "Orientações do Projeto AP2",
+                    "url": "https://docs.google.com/document/d/1-Jz4saiNzZM1NUDCqLhCcONPrfBumfUqO2koVnRTkXw/edit?usp=sharing"
+                },
+                {
                     "title": "Aulas",
                     "url": "http://bit.ly/2OQZOmO"
                 },
