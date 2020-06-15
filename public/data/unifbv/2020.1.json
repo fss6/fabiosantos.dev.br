@@ -42,18 +42,23 @@
             "resume": "",
             "items": [
                 {
+                    "title": "AP3",
+                    "subtitle": "Avaliação AP3 (16/06/2020)",
+                    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=lKlp3BUXTUa3oQBURSWMeakjrggg48FMq9mmsM-zXdpUODI4TFpDMEQ2WjFMNFMyTDlVTEs3VjhaSy4u"
+                },
+                {
                     "title": "AP2",
                     "subtitle": "Orientações do Projeto AP2",
                     "url": "https://docs.google.com/document/d/1H9FGp4JEiZMDcA-dLmoVeH2t2oVjHqIpWc04rTu2MEU/edit?usp=sharing"
                 },
                 {
-                    "title": "Aulas",
-                    "url": "http://bit.ly/3bzZdA3"
-                },
-                {
                     "title": "AP1",
                     "subtitle": "Projeto AP1",
                     "url": "https://docs.google.com/document/d/1X5A5eVoA1uKjPgK41UpPzccUx1tAYbFDlpn2rPN_DnE/edit?usp=sharing"
+                },
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/3bzZdA3"
                 },
                 {
                     "title": "Linux",
