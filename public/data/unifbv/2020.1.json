@@ -114,10 +114,6 @@
             "resume": "",
             "items": [
                 {
-                    "title": "Aulas",
-                    "url": "http://bit.ly/39sWk1Z"
-                },
-                {
                     "title": "AP3",
                     "subtitle": "Avaliação AP3 (18/06/2020)",
                     "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=lKlp3BUXTUa3oQBURSWMeakjrggg48FMq9mmsM-zXdpUNFJWSTNQMjBPREdVRU8yNFdNRzFMUzNMNC4u"
@@ -131,6 +127,10 @@
                     "title": "AP1",
                     "subtitle": "Seminários AP1",
                     "url": "https://docs.google.com/document/d/1HE96WlaQTz_Ab6_XMdnXBb0jo5hft6Lrq0PPrNyawdE/edit?usp=sharing"
+                },
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/39sWk1Z"
                 },
                 {
                     "title": "Github",
@@ -150,18 +150,23 @@
             "resume": "",
             "items": [
                 {
+                    "title": "AP3",
+                    "subtitle": "Avaliação AP3 (19/06/2020)",
+                    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=lKlp3BUXTUa3oQBURSWMeakjrggg48FMq9mmsM-zXdpUNUg0MlBVR1ZXMjBQMUZBU0JJVzk2NjFNRi4u"
+                },
+                {
                     "title": "AP2",
                     "subtitle": "Orientações do Projeto AP2",
                     "url": "https://docs.google.com/document/d/1-Jz4saiNzZM1NUDCqLhCcONPrfBumfUqO2koVnRTkXw/edit?usp=sharing"
                 },
                 {
-                    "title": "Aulas",
-                    "url": "http://bit.ly/2OQZOmO"
-                },
-                {
                     "title": "AP1",
                     "subtitle": "Projeto AP1",
                     "url": "https://docs.google.com/document/d/1gX4sf90STCnmAVMKdXrHVvyZG9O2K6rqQQ_aTXSxL5M/edit?usp=sharing"
+                },
+                {
+                    "title": "Aulas",
+                    "url": "http://bit.ly/2OQZOmO"
                 },
                 {
                     "title": "Linux",
