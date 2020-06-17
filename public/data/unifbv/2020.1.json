@@ -84,7 +84,7 @@
             "items": [
                 {
                     "title": "Avaliação",
-                    "subtitle": "Avaliação AP3 (16/06/2020)",
+                    "subtitle": "Avaliação AP3 (17/06/2020)",
                     "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=lKlp3BUXTUa3oQBURSWMeakjrggg48FMq9mmsM-zXdpUN0xZUVZWTk0xQ1I0NjVBQU84U1FTTFI0Ri4u"
                 },
                 {
@@ -118,14 +118,19 @@
                     "url": "http://bit.ly/39sWk1Z"
                 },
                 {
-                    "title": "AP1",
-                    "subtitle": "Seminários AP1",
+                    "title": "AP3",
+                    "subtitle": "Avaliação AP3 (18/06/2020)",
                     "url": "https://docs.google.com/document/d/1HE96WlaQTz_Ab6_XMdnXBb0jo5hft6Lrq0PPrNyawdE/edit?usp=sharing"
                 },
                 {
                     "title": "AP2",
                     "subtitle": "Projeto AP2",
                     "url": "https://drive.google.com/open?id=1gHT6g-dxjopymhnRPGdrCA_xT9s7o3rV"
+                },
+                {
+                    "title": "AP1",
+                    "subtitle": "Seminários AP1",
+                    "url": "https://docs.google.com/document/d/1HE96WlaQTz_Ab6_XMdnXBb0jo5hft6Lrq0PPrNyawdE/edit?usp=sharing"
                 },
                 {
                     "title": "Github",
