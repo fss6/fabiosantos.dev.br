@@ -1,46 +1,46 @@
 {
-    "DISCIPLINES": [
+    "disciplines": [
         {
-            "NAME": "SISTEMAS DISTRIBUÍDOS",
-            "CODE": "5SIDI-NT1",
-            "RESUME": "",
-            "ITEMS": [
+            "name": "SISTEMAS DISTRIBUÍDOS",
+            "code": "5SIDI-NT1",
+            "resume": "",
+            "items": [
                 {
-                    "TITLE": "Aulas",
-                    "URL": "#"
+                    "title": "Aulas",
+                    "url": "#"
                 }
             ]
         },
         {
-            "NAME": "LABORATÓRIO DE REDES - CÓDIGO LIVRE",
-            "CODE": "5LCLI-NT1",
-            "RESUME": "",
-            "ITEMS": [
+            "name": "LABORATÓRIO DE REDES - CÓDIGO LIVRE",
+            "code": "5LCLI-NT1",
+            "resume": "",
+            "items": [
                 {
-                    "TITLE": "Aulas",
-                    "URL": "#"
+                    "title": "Aulas",
+                    "url": "#"
                 }
             ]
         },
         {
-            "NAME": "LABORATÓRIO DE REDES - WINDOWS",
-            "CODE": "5LATM-NT1",
-            "RESUME": "",
-            "ITEMS": [
+            "name": "LABORATÓRIO DE REDES - WINDOWS",
+            "code": "5LATM-NT1",
+            "resume": "",
+            "items": [
                 {
-                    "TITLE": "Aulas",
-                    "URL": "#"
+                    "title": "Aulas",
+                    "url": "#"
                 }
             ]
         },
         {
-            "NAME": "SEGURANÇA E AUDITORIA",
-            "CODE": "5SENO-NT1",
-            "RESUME": "",
-            "ITEMS": [
+            "name": "SEGURANÇA E AUDITORIA",
+            "code": "5SENO-NT1",
+            "resume": "",
+            "items": [
                 {
-                    "TITLE": "Aulas",
-                    "URL": "#"
+                    "title": "Aulas",
+                    "url": "#"
                 }
             ]
         }
