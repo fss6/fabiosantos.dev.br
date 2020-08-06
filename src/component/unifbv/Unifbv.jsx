@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Template from '../Template';
+import { Chip } from '@material-ui/core'
 import { FaCalendarCheck, FaCalendarAlt, FaLink } from 'react-icons/fa';
 
 
@@ -11,31 +12,29 @@ export default class Unifbv extends Component {
                     <h2>UNIFBV</h2>
                 </div>
                 <div className="mi-contact-infoblock">
-                    <a href="/#/unifbv/2020.1">
-                        <span className="mi-contact-infoblock-icon">
-                            <FaCalendarAlt />
-                        </span>
-                    </a>
                     <div className="mi-contact-infoblock-content">
-                        <h6 className="blue-color">Período Atual</h6>
-                        <p>
-                            <a href="/#/unifbv/2020.1">
-                                <FaLink /> 2020.1
-                            </a>
-                        </p>
+                        <h6>Período Atual</h6>
+                        <Chip
+                            icon={<FaCalendarAlt />}
+                            label="2020.2" 
+                            component="a"
+                            color="primary"
+                            href={"/#/unifbv/2020.2"} 
+                            clickable/>
                     </div>
                 </div>
                 <div className="mi-contact-infoblock">
-                    <span className="mi-contact-infoblock-icon white-color">
-                        <FaCalendarCheck />
-                    </span>
+                    
                     <div className="mi-contact-infoblock-content">
-                        <h6 className="blue-color">Períodos Anteriores</h6>
-                        <p className="mb-1">
-                            <a href="/#/unifbv/2019.2">
-                                <FaLink /> 2019.2
-                            </a>
-                        </p>
+                        <h6>Períodos Anteriores</h6>
+                        {[ '2020.1', '2019.2'].map((year) =>
+                            <Chip 
+                                label={year} 
+                                component="a" 
+                                href={"/#/unifbv/" + year} 
+                                style={{ marginRight: 10}}
+                                clickable/>
+                        )}
                     </div>
                 </div>
             </Template>

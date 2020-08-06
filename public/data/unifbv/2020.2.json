@@ -1,0 +1,52 @@
+{
+    "DISCIPLINES": [
+        {
+            "NAME": "SISTEMAS DISTRIBUÍDOS",
+            "CODE": "5SIDI-NT1",
+            "RESUME": "",
+            "ITEMS": [
+                {
+                    "TITLE": "Aulas",
+                    "URL": "#"
+                }
+            ]
+        },
+        {
+            "NAME": "LABORATÓRIO DE REDES - CÓDIGO LIVRE",
+            "CODE": "5LCLI-NT1",
+            "RESUME": "",
+            "ITEMS": [
+                {
+                    "TITLE": "Aulas",
+                    "URL": "#"
+                }
+            ]
+        },
+        {
+            "NAME": "LABORATÓRIO DE REDES - WINDOWS",
+            "CODE": "5LATM-NT1",
+            "RESUME": "",
+            "ITEMS": [
+                {
+                    "TITLE": "Aulas",
+                    "URL": "#"
+                }
+            ]
+        },
+        {
+            "NAME": "SEGURANÇA E AUDITORIA",
+            "CODE": "5SENO-NT1",
+            "RESUME": "",
+            "ITEMS": [
+                {
+                    "TITLE": "Aulas",
+                    "URL": "#"
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
