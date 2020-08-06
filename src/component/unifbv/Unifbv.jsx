@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Template from '../Template';
 import { Chip } from '@material-ui/core'
-import { FaCalendarCheck, FaCalendarAlt, FaLink } from 'react-icons/fa';
+import { FaCalendarAlt } from 'react-icons/fa';
 
 
 export default class Unifbv extends Component {
