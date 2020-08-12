@@ -31,16 +31,17 @@
             "items": [
                 {
                     "title": "Aulas",
-                    "url": "#"
+                    "subtitle": "Aulas",
+                    "url": "https://drive.google.com/drive/folders/1QSk8LyeJ_jbrhyeDIquZT9mp3aml19Ys?usp=sharing"
                 },
                 {
                     "title": "VM",
-                    "subtitle": "VirtualBox"
+                    "subtitle": "VirtualBox",
                     "url": "https://www.virtualbox.org/wiki/Downloads"
                 },
                 {
                     "title": "WS 2019",
-                    "subtitle": "Windows Server 2019"
+                    "subtitle": "Windows Server 2019",
                     "url": "https://www.microsoft.com/pt-br/evalcenter/evaluate-windows-server-2019"
                 }
             ]
