@@ -32,6 +32,16 @@
                 {
                     "title": "Aulas",
                     "url": "#"
+                },
+                {
+                    "title": "VM",
+                    "subtitle": "VirtualBox"
+                    "url": "https://www.virtualbox.org/wiki/Downloads"
+                },
+                {
+                    "title": "WS 2019",
+                    "subtitle": "Windows Server 2019"
+                    "url": "https://www.microsoft.com/pt-br/evalcenter/evaluate-windows-server-2019"
                 }
             ]
         },
