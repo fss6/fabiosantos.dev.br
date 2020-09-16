@@ -7,7 +7,18 @@
             "items": [
                 {
                     "title": "Aulas",
-                    "url": "#"
+                    "subtitle": "Aulas",
+                    "url": "https://drive.google.com/drive/folders/1-DHd2Dg1GGskQygx8KLRbBIeJ1762yAs?usp=sharing"
+                },
+                {   
+                    "title": "GitHub",
+                    "subtitle": "Repositório remoto da disciplina",
+                    "url": "https://github.com/minhas-aulas/sd_unifbv_2020.2"
+                },
+                {   
+                    "title": "Linux",
+                    "subtitle": "Comandos básicos e avançados",
+                    "url": "https://www.researchgate.net/profile/Alessandro_Andrade/publication/302519436_Linux_Comandos_Basicos_e_Avancados/links/57581fba08ae5c6549074e6a/Linux-Comandos-Basicos-e-Avancados.pdf"
                 }
             ]
         },
@@ -18,7 +29,8 @@
             "items": [
                 {
                     "title": "Aulas",
-                    "url": "#"
+                    "subtitle": "Aulas",
+                    "url": "https://drive.google.com/drive/folders/1xj-CwQr3PsU88eib41mLhpfTijAeMs6J?usp=sharing"
                 }
             ]
         },
@@ -29,7 +41,18 @@
             "items": [
                 {
                     "title": "Aulas",
-                    "url": "#"
+                    "subtitle": "Aulas",
+                    "url": "https://drive.google.com/drive/folders/1QSk8LyeJ_jbrhyeDIquZT9mp3aml19Ys?usp=sharing"
+                },
+                {
+                    "title": "VB",
+                    "subtitle": "VirtualBox",
+                    "url": "https://www.virtualbox.org/wiki/Downloads"
+                },
+                {
+                    "title": "WS 2019",
+                    "subtitle": "Windows Server 2019",
+                    "url": "https://www.microsoft.com/pt-br/evalcenter/evaluate-windows-server-2019"
                 }
             ]
         },
@@ -40,8 +63,14 @@
             "items": [
                 {
                     "title": "Aulas",
-                    "url": "#"
+                    "subtitle": "Aulas",
+                    "url": "https://drive.google.com/drive/folders/1F8jzaWFntibMBzWmkJnXsxs_Q2v62kgj?usp=sharing"
+                },
+                {
+                    "title": "Cartilhas",
+                    "url": "https://cartilha.cert.br/"
                 }
+                
             ]
         }
     ]
