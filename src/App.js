@@ -19,11 +19,4 @@ function App() {
   );
 }
 
-function Child() {
-  let { period } = useParams();
-  return (
-    <Period period={period} />
-  );
-}
-
 export default App;
