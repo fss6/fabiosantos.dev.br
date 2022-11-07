@@ -26,10 +26,7 @@ export default class Template extends Component {
                             </li>
                             <li>
                                 <a href="/#/resume" className={this.activeMenu('resume')}><span>FORMAÇÃO ACADÊMICA</span></a>
-                            </li>
-                            <li>
-                                <a href="/#/unifbv" className={this.activeMenu('unifbv')}><span>UniFBV</span></a>
-                            </li>
+                            </li>                            
                         </ul>
                         <p className="mi-header-copyright">
                             <span className="gray-color">© 2019 </span> 
