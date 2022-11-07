@@ -49,10 +49,6 @@ export default function TemporaryDrawer() {
             <ListItemIcon><FaRegFile /></ListItemIcon>
             <ListItemText primary={'Formação Acadêmica'} />
           </ListItem>
-          <ListItem component={Link} to="/unifbv" button>
-            <ListItemIcon><FaBuilding /></ListItemIcon>
-            <ListItemText primary={'UniFBV'} />
-          </ListItem>
       </List>
       <Divider />
     </div>
